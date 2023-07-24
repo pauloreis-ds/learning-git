@@ -51,3 +51,5 @@ to see files status
 > git commit -m "README.md was modified"
 
 > git push
+
+Trying to submit this new change, but there's already a new change in the main repository
