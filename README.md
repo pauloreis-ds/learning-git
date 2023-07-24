@@ -53,3 +53,13 @@ to see files status
 > git push
 
 Trying to submit this new change, but there's already a new change in the main repository
+
+> git pull
+
+to get that new file in the main repo, and push again.
+
+> git reflog
+
+to see commit history
+
+
