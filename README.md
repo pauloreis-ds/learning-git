@@ -62,4 +62,10 @@ to get that new file in the main repo, and push again.
 
 to see commit history
 
+> git reflog
 
+to see commit history and choose ID to retrieve those files
+
+> git reset --hard {COMMIT_ID}
+
+_Search for https://www.datacamp.com/tutorial/git-reset-revert-tutorial_
