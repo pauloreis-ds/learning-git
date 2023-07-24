@@ -39,27 +39,4 @@ Go to your projects directory and clone the github repo there
                  |------learning-git
                  
                  
-Edit this file and prepare to upload it with these commands (go inside learning-git folder in the command line):
 
-
-> git status
-
-to see files status
-
-> git add README.md
-
-> git commit -m "README.md was modified"
-
-> git push
-
-Trying to submit this new change, but there's already a new change in the main repository
-
-> git pull
-
-to get that new file in the main repo, and push again.
-
-> git reflog
-
-to see commit history
-
-Change made in github (by colleague)
