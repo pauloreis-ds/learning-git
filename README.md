@@ -39,6 +39,7 @@ Go to your projects directory and clone the github repo there
                  |------learning-git
                  
                  
+<<<<<<< HEAD
 Edit this file and prepare to upload it with these commands (go inside learning-git folder in the command line):
 
 
@@ -63,6 +64,8 @@ to get that new file in the main repo, and push again.
 to see commit history
 
 > git reflog
+=======
+>>>>>>> d34419c09853c1089e7f97c6f7e894708bab6fe2
 
 to see commit history and choose ID to retrieve those files
 
