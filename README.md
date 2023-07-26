@@ -72,3 +72,16 @@ to see commit history and choose ID to retrieve those files
 > git reset --hard {COMMIT_ID}
 
 _Search for https://www.datacamp.com/tutorial/git-reset-revert-tutorial_
+
+
+> git branch
+
+see branches
+
+> git branch {BRANCH_NAME}
+
+to create a new branch
+
+> git checkout {BRANCH_NAME}
+
+to change branch
