@@ -90,3 +90,6 @@ to merge the two branches, you need to go to the main branch
 
 > git checkout {BRANCH_NAME}
 
+and then
+
+> git merge {BRANCH_NAME}
